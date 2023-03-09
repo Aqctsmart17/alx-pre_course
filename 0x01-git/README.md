@@ -1,1 +1,1 @@
-My Readme
+echo My readme
